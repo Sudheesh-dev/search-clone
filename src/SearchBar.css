@@ -1,0 +1,30 @@
+.searchBar{
+    height: 45px;
+    width: 560px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 22.5px;
+    box-shadow: 0px 0px 1px rgb(71, 71, 71);
+    padding: 0px 15px;
+    
+}
+.searchBar:hover{
+    box-shadow: 0px 2px 6px rgb(194, 194, 194)
+}
+.searchBarInput{
+    flex: 1;
+    padding: 10px 0px ;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    color: rgb(41, 41, 41);
+}
+.searchBarIcon{
+    margin-right: 10px;
+    color: gray;
+}
+.searchBarMic{
+    margin-left: 10px;
+    color: rgb(85, 85, 255);
+}

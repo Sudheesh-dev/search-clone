@@ -1,0 +1,35 @@
+.searchResultHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 23px 25px;
+}
+.searchResultHeaderLeft{
+    display: flex;
+    align-items: center;
+}
+.searchResultHeaderRight{
+    display: flex;
+    align-items: center;
+}
+.googleLogo{
+    height: 31px;
+    margin-right: 50px;
+}
+.searchResultHeaderRightIcon{
+    margin-right: 20px;
+}
+.navBar{
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+    box-shadow: 1px 1px 1px rgb(233, 233, 233);
+}
+.searchInfo{
+    margin: 10px;
+    margin-left: 180px;
+}
+.searchInfoText{
+    font-size: 14px;
+    color: gray;
+}
